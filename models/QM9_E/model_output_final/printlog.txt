@@ -1,0 +1,36 @@
+2023-01-01 13:48:16,010 [INFO ]  loading data graphnn/data/qm9.db
+2023-01-01 13:48:16,017 [INFO ]  Converting U0 to E
+2023-01-01 14:52:21,145 [INFO ]  Computing mean and variance
+2023-01-01 14:52:23,230 [DEBUG]  target_mean=-4.465961, target_stddev=0.177694
+2023-01-01 14:52:23,345 [INFO ]  start training
+2023-01-01 14:52:32,778 [INFO ]  step=2855000, energy_mae=0.00999823, energy_rmse=0.0308039, total_loss=0.000948881, train_loss=2.15224e+11
+2023-01-01 14:58:25,084 [INFO ]  step=2860000, energy_mae=0.0112739, energy_rmse=0.0315825, total_loss=0.000997454, train_loss=3.6403e+11
+2023-01-01 15:04:14,453 [INFO ]  step=2865000, energy_mae=0.0109455, energy_rmse=0.0314349, total_loss=0.000988156, train_loss=3.64763e+11
+2023-01-01 15:10:05,089 [INFO ]  step=2870000, energy_mae=0.010182, energy_rmse=0.0311187, total_loss=0.000968373, train_loss=3.6707e+11
+2023-01-01 15:15:55,431 [INFO ]  step=2875000, energy_mae=0.0101416, energy_rmse=0.030901, total_loss=0.000954872, train_loss=3.56397e+11
+2023-01-01 15:21:46,618 [INFO ]  step=2880000, energy_mae=0.00997643, energy_rmse=0.0309501, total_loss=0.000957909, train_loss=3.58358e+11
+2023-01-01 15:27:37,527 [INFO ]  step=2885000, energy_mae=0.0109691, energy_rmse=0.031407, total_loss=0.0009864, train_loss=3.59625e+11
+2023-01-01 15:33:27,033 [INFO ]  step=2890000, energy_mae=0.00993651, energy_rmse=0.030904, total_loss=0.000955059, train_loss=3.59551e+11
+2023-01-01 15:39:14,889 [INFO ]  step=2895000, energy_mae=0.0133984, energy_rmse=0.032253, total_loss=0.00104026, train_loss=3.57401e+11
+2023-01-01 15:44:58,851 [INFO ]  step=2900000, energy_mae=0.0100359, energy_rmse=0.030946, total_loss=0.000957652, train_loss=3.52961e+11
+2023-01-01 15:50:39,934 [INFO ]  step=2905000, energy_mae=0.0103857, energy_rmse=0.0315759, total_loss=0.000997034, train_loss=3.55595e+11
+2023-01-01 15:56:18,717 [INFO ]  step=2910000, energy_mae=0.0098961, energy_rmse=0.0309967, total_loss=0.000960797, train_loss=3.56759e+11
+2023-01-01 16:01:57,462 [INFO ]  step=2915000, energy_mae=0.00980544, energy_rmse=0.0308831, total_loss=0.000953768, train_loss=3.51906e+11
+2023-01-01 16:07:36,196 [INFO ]  step=2920000, energy_mae=0.0107233, energy_rmse=0.0314957, total_loss=0.000991981, train_loss=3.51073e+11
+2023-01-01 16:13:15,162 [INFO ]  step=2925000, energy_mae=0.00974245, energy_rmse=0.0308423, total_loss=0.000951245, train_loss=3.54373e+11
+2023-01-01 16:18:54,302 [INFO ]  step=2930000, energy_mae=0.0106598, energy_rmse=0.0310283, total_loss=0.000962755, train_loss=3.54195e+11
+2023-01-01 16:24:32,876 [INFO ]  step=2935000, energy_mae=0.00963652, energy_rmse=0.0307674, total_loss=0.000946635, train_loss=3.50509e+11
+2023-01-01 16:30:15,350 [INFO ]  step=2940000, energy_mae=0.0102166, energy_rmse=0.0310267, total_loss=0.000962655, train_loss=3.49423e+11
+2023-01-01 16:35:57,965 [INFO ]  step=2945000, energy_mae=0.00988759, energy_rmse=0.0307484, total_loss=0.000945462, train_loss=3.51414e+11
+2023-01-01 16:41:40,484 [INFO ]  step=2950000, energy_mae=0.0100353, energy_rmse=0.0309971, total_loss=0.00096082, train_loss=3.47477e+11
+2023-01-01 16:47:22,712 [INFO ]  step=2955000, energy_mae=0.0104221, energy_rmse=0.0309851, total_loss=0.000960076, train_loss=3.46566e+11
+2023-01-01 16:53:04,994 [INFO ]  step=2960000, energy_mae=0.0121713, energy_rmse=0.0319022, total_loss=0.00101775, train_loss=3.463e+11
+2023-01-01 16:58:47,703 [INFO ]  step=2965000, energy_mae=0.0102312, energy_rmse=0.0309721, total_loss=0.000959268, train_loss=3.45599e+11
+2023-01-01 17:04:30,484 [INFO ]  step=2970000, energy_mae=0.010098, energy_rmse=0.030762, total_loss=0.000946299, train_loss=3.44837e+11
+2023-01-01 17:10:13,196 [INFO ]  step=2975000, energy_mae=0.00986708, energy_rmse=0.0308122, total_loss=0.000949393, train_loss=3.42903e+11
+2023-01-01 17:15:56,011 [INFO ]  step=2980000, energy_mae=0.00987393, energy_rmse=0.0310655, total_loss=0.000965066, train_loss=3.42869e+11
+2023-01-01 17:21:38,360 [INFO ]  step=2985000, energy_mae=0.00973593, energy_rmse=0.0308178, total_loss=0.000949738, train_loss=3.43749e+11
+2023-01-01 17:27:20,561 [INFO ]  step=2990000, energy_mae=0.0100762, energy_rmse=0.0312994, total_loss=0.000979654, train_loss=3.41621e+11
+2023-01-01 17:33:03,195 [INFO ]  step=2995000, energy_mae=0.00991115, energy_rmse=0.0310684, total_loss=0.000965247, train_loss=3.43834e+11
+2023-01-01 17:38:45,884 [INFO ]  step=2999999, energy_mae=0.00983777, energy_rmse=0.0308573, total_loss=0.000952171, train_loss=3.38671e+11
+2023-01-01 17:38:45,885 [INFO ]  Max steps reached, exiting
